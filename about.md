@@ -14,6 +14,14 @@ sections:
       turpis et nisi fermentum accumsan.
     image: images/about.jpg
     image_alt: Our team in the meeting room
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
 seo:
   title: About Us
   description: This is the about us page
