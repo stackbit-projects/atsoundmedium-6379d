@@ -8,22 +8,6 @@ sections:
     actions: []
     type: hero_section
   - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
-    col_number: two
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
     section_id: services
     title: Services
     subtitle: What we do
