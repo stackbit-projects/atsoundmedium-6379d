@@ -69,5 +69,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://atsoundmedium-6379d.netlify.app"
 }
