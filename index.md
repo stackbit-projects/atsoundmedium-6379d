@@ -72,6 +72,12 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
@@ -85,12 +91,6 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items: []
-    type: grid_section
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
