@@ -89,22 +89,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
-    grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
+    grid_items: []
     type: grid_section
 seo:
   title: Award Winning Agency Based in San Francisco
