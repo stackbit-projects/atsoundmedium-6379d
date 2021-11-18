@@ -4,17 +4,17 @@ hide_title: true
 sections:
   - section_id: immagine home
     title: this is how we look
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## ![](images/66330032-966ac3f8.tif)Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: hero_section
   - type: portfolio_section
