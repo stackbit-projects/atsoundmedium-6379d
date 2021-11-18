@@ -2,6 +2,21 @@
 title: Home
 hide_title: true
 sections:
+  - section_id: immagine home
+    title: this is how we look
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -76,21 +91,6 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: immagine home
-    title: this is how we look
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
