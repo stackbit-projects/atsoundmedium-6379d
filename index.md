@@ -91,6 +91,13 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: posts_section
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
