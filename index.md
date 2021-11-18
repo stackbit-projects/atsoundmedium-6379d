@@ -7,14 +7,6 @@ sections:
     content: "![](images/66330032-966ac3f8.tif)\n\n## Cercavo con l’orecchio un suono che mi potesse fare da vestito.\n\nQuel palazzo era come me: un vecchio film di fantascienza russa.\n\nL’emozione dell’ignoto per poi ritrovarsi non più estranei in un mondo temporaneo.\n\nLa musica attraverso le immagini e la polvere di un luogo,\n\nin una bolla morbida di persone.\n\nIl giorno dopo percepivo le mie orecchie\_\n\ncome membri di una nuova colonia, nello spazio profondo.\_\n"
     actions: []
     type: hero_section
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 1
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Clients
