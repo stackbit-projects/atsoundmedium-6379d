@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: tiles
     title: Recent Work
     subtitle: Explore case studies
     projects_number: 1
