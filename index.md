@@ -76,7 +76,7 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: immagine home
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
