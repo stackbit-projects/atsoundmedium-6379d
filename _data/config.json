@@ -7,7 +7,7 @@
         "title": "AT Soundmedium",
         "logo": "images/Schermata 2021-11-18 alle 12.28.24.png",
         "logo_alt": "AT Soundmedium",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
