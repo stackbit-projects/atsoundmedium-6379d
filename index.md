@@ -77,7 +77,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: immagine home
-    title: lorem-ipsum
+    title: this is how we look
     content: >-
       ## Lorem ipsum
 
