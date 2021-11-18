@@ -11,6 +11,12 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -72,12 +78,6 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items: []
-    type: grid_section
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
