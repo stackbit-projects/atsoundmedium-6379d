@@ -101,6 +101,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+    image: images/66330032.tif
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
