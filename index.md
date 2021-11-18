@@ -7,43 +7,6 @@ sections:
     content: "![](images/66330032-966ac3f8.tif)\n\n## Cercavo con l’orecchio un suono che mi potesse fare da vestito.\n\nQuel palazzo era come me: un vecchio film di fantascienza russa.\n\nL’emozione dell’ignoto per poi ritrovarsi non più estranei in un mondo temporaneo.\n\nLa musica attraverso le immagini e la polvere di un luogo,\n\nin una bolla morbida di persone.\n\nIl giorno dopo percepivo le mie orecchie\_\n\ncome membri di una nuova colonia, nello spazio profondo.\_\n"
     actions: []
     type: hero_section
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - title: Business design
-        image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - title: Experience design
-        image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
