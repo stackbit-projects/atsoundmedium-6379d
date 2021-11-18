@@ -88,7 +88,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
+    image_alt: danzica
     content: >-
       ## Lorem ipsum
 
