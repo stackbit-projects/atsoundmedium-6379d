@@ -85,7 +85,7 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: Immagine home
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: danzica
