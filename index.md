@@ -89,13 +89,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
+    actions: []
     type: hero_section
 seo:
   title: Award Winning Agency Based in San Francisco
