@@ -1,5 +1,5 @@
 ---
-title: '*****'
+title: ABOUT
 hide_title: true
 sections:
   - type: content_section
